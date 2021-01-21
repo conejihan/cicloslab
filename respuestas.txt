@@ -1,0 +1,13 @@
+-Pareja 1 y 2: Agreguen los cambios a sus repositorios locales, hagan commit y push.
+ ¿Las dos parejas lo pudieron hacer?, ¿Qué quedó al final en la versión oficial?
+ ----------------------------------------------------------------------------------------------------------------------
+ no es posible hacer la actualizacion al tiempo , ya que al hacer dos procesos al mismo tiempo se genera inteferencia 
+ la manera de resolver es hacer un git pull antes de hacer un git push.
+ la version final quedo solo con un cambio ,despues del git pull quedan con los cambios acordados. 
+ -----------------------------------------------------------------------------------------------------------------------
+ -Usando el comando gitk, ¿Qué diferencia hay ahora en el historial de cambios en el repositorio?
+  
+ 
+ 
+ 
+ 

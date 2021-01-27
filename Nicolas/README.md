@@ -30,3 +30,11 @@ def main:
 ```
 
 Con eso he ido aprendiendo poco a poco lenguajes de programacion y temas interesantes que tienen que ver con sistemas.
+
+## **GIT BRANCHING**
+
+### main
+![](\cicloslab\Nicolas\WhatsApp Image 2021-01-27 at 8.56.27 AM1)
+
+### remote
+![](\cicloslab\Nicolas\WhatsApp Image 2021-01-27 at 8.56.27 AM)

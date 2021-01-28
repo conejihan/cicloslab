@@ -30,3 +30,11 @@ def main:
 ```
 
 Con eso he ido aprendiendo poco a poco lenguajes de programacion y temas interesantes que tienen que ver con sistemas.
+
+## **GIT BRANCHING**
+
+### main
+![](https://github.com/conejihan/cicloslab/blob/main/Nicolas/WhatsApp%20Image%202021-01-27%20at%208.56.27%20AM1.jpeg)
+
+### remote
+![](https://github.com/conejihan/cicloslab/blob/main/Nicolas/WhatsApp%20Image%202021-01-27%20at%208.56.27%20AM.jpeg)
